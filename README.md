@@ -28,3 +28,14 @@ The remote build successfully displayed:
 ## Conclusion
 Successfully configured Jenkins Remoting and executed a build on a connected remote Linux agent.
 Jenkins Remoting with a connected Linux agent and remote build execution
+
+## Project Screenshots
+
+### 1. Jenkins Agent Connection
+![Agent Connection](Status%20check.png)
+
+### 2. Remote Build Console Output
+![Console Output](Console%20Output.png)
+
+### 3. Additional Build Console Output
+![Additional Console Output](Console%20Output%20%232.png)
